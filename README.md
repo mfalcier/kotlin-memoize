@@ -22,7 +22,6 @@ If you need to know what memoization is: https://en.wikipedia.org/wiki/Memoizati
 ```groovy
 allprojects {
     repositories {
-        ...
         maven { url 'https://jitpack.io' }
     }
 }
