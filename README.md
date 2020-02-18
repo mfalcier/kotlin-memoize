@@ -28,7 +28,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.mfalcier:kotlin-memoize:Tag'
+    implementation 'com.github.mfalcier:kotlin-memoize:1.0.0'
 }
 ```
 
@@ -44,6 +44,6 @@ Maven Dependency:
 <dependency>
     <groupId>com.github.mfalcier</groupId>
     <artifactId>kotlin-memoize</artifactId>
-    <version>Tag</version>
+    <version>1.0.0</version>
 </dependency>
 ```
