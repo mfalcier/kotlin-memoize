@@ -1,7 +1,7 @@
 # kotlin-memoize
 A simple library used for memoizing a pure function with a single input value.
 
-##Example:
+### Example:
 ```kotlin
 fun complexFunction(param: Any): Any {
     ...
@@ -18,7 +18,7 @@ The second execution of `memoizedComplexFunction("Hello")` will not be executed 
 
 If you need to know what memoization is: https://en.wikipedia.org/wiki/Memoization
 
-##Gradle Dependency:
+### Gradle Dependency:
 ```
 allprojects {
     repositories {
@@ -32,7 +32,7 @@ dependencies {
 }
 ```
 
-##Maven Dependency:
+### Maven Dependency:
 ```xml
 <repositories>
     <repository>
