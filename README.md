@@ -19,7 +19,7 @@ The second execution of `memoizedComplexFunction("Hello")` will not be executed 
 If you need to know what memoization is: https://en.wikipedia.org/wiki/Memoization
 
 ### Gradle Dependency:
-```
+```groovy
 allprojects {
     repositories {
         ...
